@@ -1,6 +1,6 @@
 # Informative Systems
 
-[Project requirements](https://github.com/CanobbioE/UNITO/blob/master/SI/progetto%20SI%201718.pdf "In Italian")
+[Project requirements](https://github.com/CanobbioE/SI/blob/master/progetto%20SI%201718.pdf "In Italian")
 
 
 ### Project info
